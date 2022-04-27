@@ -7,3 +7,6 @@
 
 **3e semaine : 06/04/22**
 # Vidéos images, table, inframe, div/span et inspecteur. Implémentation table + ajout en-tête "contact, menu,acceuil"
+
+**4e semaine : 27/04/22**
+# Début CSS, problème le css ne s'applique pas. Ajout d'une orloge en java
