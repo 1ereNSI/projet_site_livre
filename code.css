@@ -1,43 +1,48 @@
     body {
-        margin: 10px;
-        padding: 50px;
+        margin: 75px;
+        padding: 1em;
+        background-color: rgb(255, 255, 255);
     }
     
     header {
-        background: red;
-        background-image: url(file:///C:/Users/Elève/Documents/Projet%20Final/img/plat%20acceuil.jpg);
+        background-image: url(file:///C:/Users/Elève/Documents/Projet%20Final/img/plaat.jpg);
         text-align: center;
         width: 100%;
         margin: 0;
         padding: 10px;
     }
     
-    .t1 {
-        border: 2px solid black;
-    }
-    
     table {
         border-collapse: collapse;
-        width: 300px;
+        width: auto;
         margin-bottom: 20px;
+        margin: auto;
     }
     
-    table {
-        border-collapse: collapse;
-        width: 300px;
-        margin-bottom: 20px;
+    .T2 {
+        text-align: center;
     }
     
     .t2 td,
     .t2 th {
-        border: 1px solid orange;
-        border-spacing: 10px;
-        border: 1px solid black;
-        padding: 10px;
+        border-spacing: 150px;
+        border: 50px solid rgb(255, 255, 255);
+        text-align: center;
+        table-layout: fixed;
+        width: auto;
     }
     
     img {
         text-align: center;
-        margin: auto;
+        width: 450px;
+        height: auto;
         display: flex;
+    }
+    
+    .title-big {
+        color: aliceblue;
+    }
+    
+    p {
+        text-align: center;
     }

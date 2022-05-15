@@ -10,3 +10,6 @@
 
 **4e semaine : 27/04/22**
 # Début CSS, problème le css ne s'applique pas. Ajout d'une orloge en java
+
+**5/6 semaine**
+# Fin de la mise en page, tableau ajusté, problème avec les images réglés. Début de recherche pour pouvoir animer une image en Java au passage de la souris
