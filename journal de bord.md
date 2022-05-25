@@ -16,3 +16,6 @@
 
 **7e semaine**
 # Ajout Boostrap, insertion commentaire et carte google
+
+**8e semaine**
+# Tentative de mise en place d'un carroussel : échec.
